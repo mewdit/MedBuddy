@@ -1,16 +1,18 @@
-# medical_chatbot
+# Medical Condition Detection Chatbot
 
-A new Flutter project.
 
-## Getting Started
+This project is a medical condition detection chatbot, named "Med Buddy," designed to provide users with medical advice based on their symptoms. Developed with Flutter and integrated with the Palm API 2, it offers a rich conversational experience in a beautifully designed user interface.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## About The Project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Med Buddy aims to simplify the process of identifying potential medical conditions through a friendly chat interface. The chatbot engages users with conversational prompts, helping them understand their symptoms better and providing general advice on managing common conditions.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples:
+
+- [Flutter](https://flutter.dev)
+- [Dart](https://dart.dev)
+- [Palm API 2](#) (Add the link to Palm API 2 documentation or homepage if available)
+
